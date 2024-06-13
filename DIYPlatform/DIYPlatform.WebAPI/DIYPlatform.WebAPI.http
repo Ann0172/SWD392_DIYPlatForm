@@ -1,0 +1,6 @@
+@DIYPlatform.WebAPI_HostAddress = http://localhost:5018
+
+GET {{DIYPlatform.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
